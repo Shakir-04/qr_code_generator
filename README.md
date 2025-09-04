@@ -27,7 +27,7 @@ Run the script using the terminal:
 1. Enter the text or URL when prompted.
 
 
-2. Enter a filename or URl for the QR code image (press Enter to use the default MyQRCode.png).
+2. Enter a filename for the QR code image (press Enter to use the default MyQRCode.png).
 
 
 3. The QR code will be generated and saved in the same directory.
